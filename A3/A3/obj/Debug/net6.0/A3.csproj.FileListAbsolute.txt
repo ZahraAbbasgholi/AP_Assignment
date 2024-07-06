@@ -1,0 +1,15 @@
+e:\AP\Assignment\A3\A3\bin\Debug\net6.0\A3.exe
+e:\AP\Assignment\A3\A3\bin\Debug\net6.0\A3.deps.json
+e:\AP\Assignment\A3\A3\bin\Debug\net6.0\A3.runtimeconfig.json
+e:\AP\Assignment\A3\A3\bin\Debug\net6.0\A3.dll
+e:\AP\Assignment\A3\A3\bin\Debug\net6.0\ref\A3.dll
+e:\AP\Assignment\A3\A3\bin\Debug\net6.0\A3.pdb
+e:\AP\Assignment\A3\A3\obj\Debug\net6.0\A3.csproj.AssemblyReference.cache
+e:\AP\Assignment\A3\A3\obj\Debug\net6.0\A3.GeneratedMSBuildEditorConfig.editorconfig
+e:\AP\Assignment\A3\A3\obj\Debug\net6.0\A3.AssemblyInfoInputs.cache
+e:\AP\Assignment\A3\A3\obj\Debug\net6.0\A3.AssemblyInfo.cs
+e:\AP\Assignment\A3\A3\obj\Debug\net6.0\A3.csproj.CoreCompileInputs.cache
+e:\AP\Assignment\A3\A3\obj\Debug\net6.0\A3.dll
+e:\AP\Assignment\A3\A3\obj\Debug\net6.0\ref\A3.dll
+e:\AP\Assignment\A3\A3\obj\Debug\net6.0\A3.pdb
+e:\AP\Assignment\A3\A3\obj\Debug\net6.0\A3.genruntimeconfig.cache

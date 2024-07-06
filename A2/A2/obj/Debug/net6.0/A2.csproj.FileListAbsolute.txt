@@ -1,0 +1,15 @@
+e:\AP\Assignment\A2\A2\obj\Debug\net6.0\A2.csproj.AssemblyReference.cache
+e:\AP\Assignment\A2\A2\obj\Debug\net6.0\A2.GeneratedMSBuildEditorConfig.editorconfig
+e:\AP\Assignment\A2\A2\obj\Debug\net6.0\A2.AssemblyInfoInputs.cache
+e:\AP\Assignment\A2\A2\obj\Debug\net6.0\A2.AssemblyInfo.cs
+e:\AP\Assignment\A2\A2\obj\Debug\net6.0\A2.csproj.CoreCompileInputs.cache
+e:\AP\Assignment\A2\A2\bin\Debug\net6.0\A2.exe
+e:\AP\Assignment\A2\A2\bin\Debug\net6.0\A2.deps.json
+e:\AP\Assignment\A2\A2\bin\Debug\net6.0\A2.runtimeconfig.json
+e:\AP\Assignment\A2\A2\bin\Debug\net6.0\A2.dll
+e:\AP\Assignment\A2\A2\bin\Debug\net6.0\ref\A2.dll
+e:\AP\Assignment\A2\A2\bin\Debug\net6.0\A2.pdb
+e:\AP\Assignment\A2\A2\obj\Debug\net6.0\A2.dll
+e:\AP\Assignment\A2\A2\obj\Debug\net6.0\ref\A2.dll
+e:\AP\Assignment\A2\A2\obj\Debug\net6.0\A2.pdb
+e:\AP\Assignment\A2\A2\obj\Debug\net6.0\A2.genruntimeconfig.cache
